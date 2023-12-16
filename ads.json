@@ -1,1 +1,18 @@
-{}
+{
+    "Authtest": {
+        "projectName": "Authtest",
+        "description": "auth",
+        "type": "community",
+        "author": "studytoursindia",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/studytoursindia/agama-labs",
+        "githubUri": "https://github.com/studytoursindia/agama-labs",
+        "license": "apache-2.0",
+        "lastUpdated": "1702756187461",
+        "tags": [
+            "auth"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
